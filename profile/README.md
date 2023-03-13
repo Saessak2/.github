@@ -17,7 +17,7 @@
                 <li><a>Front (Web)</a></li>
                 <li><a>Client (Mac OS)</a></li>
                 <li><a href="https://github.com/Saessak2/Linking-Database">Database</a></li>
-                <li><a href="https://github.com/Saessak2/Linking-Server>Server</a></li>
+                <li><a href="https://github.com/Saessak2/Linking-Server">Server</a></li>
             </ul>
         </li>
     </ul>
