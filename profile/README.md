@@ -15,7 +15,7 @@
             <h4>🔗 Linking 🔗</h4>
             <ul>
                 <li><a>Front (Web)</a></li>
-                <li><a>Client (Mac OS)</a></li>
+                <li><a href="https://github.com/Saessak2/Linking-MacOS">Client (Mac OS)</a></li>
                 <li><a href="https://github.com/Saessak2/Linking-Database">Database</a></li>
                 <li><a href="https://github.com/Saessak2/Linking-Server">Server</a></li>
             </ul>
